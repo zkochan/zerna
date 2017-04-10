@@ -1,0 +1,23 @@
+{
+  "name": "zerna",
+  "version": "0.0.0",
+  "description": "Publish packages in a monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkochan/zerna.git"
+  },
+  "keywords": [
+    "monorepo",
+    "publish"
+  ],
+  "author": "Zoltan Kochan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkochan/zerna/issues"
+  },
+  "homepage": "https://github.com/zkochan/zerna#readme"
+}
